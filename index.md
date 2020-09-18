@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### FULL-STACK DEVELOPMENT
 
-[Project 1 Title](/sample_page)
+[Food choices and our carbon footprint](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### DATA VISUALISATION
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
